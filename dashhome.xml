@@ -35,6 +35,7 @@
             <responsetype>Maintain</responsetype>
             <message>Launching ...</message>
           </vui>
+          <description>MojaveCore is working on something new...</description>
           <rating>267242991</rating>
           <shallowimg>https://download-ssl.xboxlive.com/content/dashboard/images/360-Dash_Tile-0_Shop-Consoles_Tile02_352x264_01.jpg</shallowimg>
         </slot>
@@ -46,7 +47,7 @@
             <responsetype>Maintain</responsetype>
             <message>Launching Experience next-gen performance. Upgrade Today!...</message>
           </vui>
-          <description>Experience next-gen performance. Upgrade Today!</description>
+          <description>MojaveCore is working on something new...</description>
           <rating>267242991</rating>
           <shallowimg>https://cms-assets.xboxservices.com/assets/15/c1/15c1c421-0608-46a0-bbaf-258da4a50e4a.jpg?n=360-Dash_Tile-0_Shop-Consoles_Tile01_352x264_01.jpg</shallowimg>
         </slot>
