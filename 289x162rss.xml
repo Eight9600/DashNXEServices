@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/">
+
   <channel>
     <title>DashNXE</title>
     <link>https://example.com/</link>
     <description>Test</description>
 
     <item>
-      <title>My First Post</title>
+      <title>DashNXETile</title>
       <link>https://example.com/post1</link>
-      <description>Hello! This is my first RSS post.</description>
-   <media:content
-    url="https://example.com/images/dashnxe-v3.png"
-    type="image/png"
-    medium="image" />
-      <pubDate>Thu, 01 Oct 2026 23:30:00 -0700</pubDate>
-      <guid>https://example.com/post1</guid>
+
+      <description>
+        Trick or treat, beat my, nevermind.
+      </description>
+
       <media:content
+        url="https://eight9600.github.io/DashNXEServices/XexoinozToT.png"
+        type="image/png"
+        medium="image" />
+
+      <pubDate>Thu, 01 Oct 2026 23:30:00 -0700</pubDate>
+
+      <guid>https://example.com/post1</guid>
     </item>
 
   </channel>
